@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Get package info",
+        "command": "package-info:get"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "package-info",
+          "submenu": [
+            {
+              "label": "Get package info",
+              "command": "package-info:get"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "package-info:get",
+    "ctrl-alt-u": "package-info:update"
+  }
+}
